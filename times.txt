@@ -1,0 +1,62 @@
+$ bash run.sh
+rows: 1000 cols: 1000 range: 1024 num_mat: 1
+Time taken: 108 ms
+Test Passed
+rows: 1000 cols: 1000 range: 4096 num_mat: 1
+Time taken: 108 ms
+Test Passed
+rows: 1000 cols: 1000 range: 100000 num_mat: 1
+Time taken: 109 ms
+Test Passed
+rows: 1000 cols: 1000 range: 100000000 num_mat: 1
+Time taken: 1981 ms
+Test Passed
+rows: 10000 cols: 10000 range: 1024 num_mat: 1
+Time taken: 3991 ms
+Test Passed
+rows: 10000 cols: 10000 range: 4096 num_mat: 1
+Time taken: 3990 ms
+Test Passed
+rows: 10000 cols: 10000 range: 100000 num_mat: 1
+Time taken: 3991 ms
+Test Passed
+rows: 10000 cols: 10000 range: 100000000 num_mat: 1
+Time taken: 5857 ms
+Test Passed
+rows: 10000 cols: 100000 range: 1024 num_mat: 1
+Time taken: 39649 ms
+Test Passed
+rows: 10000 cols: 100000 range: 4096 num_mat: 1
+Time taken: 38374 ms
+Test Passed
+rows: 10000 cols: 100000 range: 100000 num_mat: 1
+Time taken: 39621 ms
+Test Passed
+rows: 10000 cols: 100000 range: 100000000 num_mat: 1
+Time taken: 40283 ms
+Test Passed
+rows: 1000 cols: 1000 range: 1024 num_mat: 10
+Time taken: 425 ms
+Test Passed
+rows: 1000 cols: 1000 range: 4096 num_mat: 10
+Time taken: 426 ms
+Test Passed
+rows: 1000 cols: 1000 range: 100000 num_mat: 10
+Time taken: 437 ms
+Test Passed
+rows: 1000 cols: 1000 range: 100000000 num_mat: 10
+Time taken: 19322 ms
+Test Passed
+rows: 10000 cols: 10000 range: 1024 num_mat: 10
+Time taken: 37231 ms
+Test Passed
+rows: 10000 cols: 10000 range: 4096 num_mat: 10
+Time taken: 37175 ms
+Test Passed
+rows: 10000 cols: 10000 range: 100000 num_mat: 10
+Time taken: 37105 ms
+Test Passed
+rows: 10000 cols: 10000 range: 100000000 num_mat: 10
+Time taken: 55022 ms
+Test Passed
+[cs1211211@khas040 ~/A3]
